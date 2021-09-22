@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\obj\Debug\OuterSpace_Console.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\obj\Debug\OuterSpace_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\bin\Debug\OuterSpaceUI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\bin\Debug\OuterSpaceUI.exe
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\bin\Debug\OuterSpaceUI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\obj\Debug\OuterSpaceUI.exe
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\obj\Debug\OuterSpaceUI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\bin\Debug\OuterSpaceAdventure_Repo.dll
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\bin\Debug\OuterSpaceAdventure_Repo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceUI\obj\Debug\OuterSpace_Console.csproj.CopyComplete

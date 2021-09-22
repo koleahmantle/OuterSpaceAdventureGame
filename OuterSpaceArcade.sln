@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuterSpace_Console", "OuterSpaceUI\OuterSpace_Console.csproj", "{65B5CFC0-4AF3-4D65-A4BB-2E6B15FA4C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuterSpaceAdventure_Repo", "OuterSpaceAdventure_Repo\OuterSpaceAdventure_Repo.csproj", "{A2D29665-C0EC-4EB1-B3A4-AC24F4AACD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B5CFC0-4AF3-4D65-A4BB-2E6B15FA4C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B5CFC0-4AF3-4D65-A4BB-2E6B15FA4C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B5CFC0-4AF3-4D65-A4BB-2E6B15FA4C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B5CFC0-4AF3-4D65-A4BB-2E6B15FA4C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D29665-C0EC-4EB1-B3A4-AC24F4AACD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D29665-C0EC-4EB1-B3A4-AC24F4AACD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D29665-C0EC-4EB1-B3A4-AC24F4AACD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D29665-C0EC-4EB1-B3A4-AC24F4AACD42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3A8434-4EA0-4AAC-A8DE-68B3D0F22DA7}
+	EndGlobalSection
+EndGlobal

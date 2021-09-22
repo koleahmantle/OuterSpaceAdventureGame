@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceAdventure_Repo\bin\Debug\OuterSpaceAdventure_Repo.dll
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceAdventure_Repo\bin\Debug\OuterSpaceAdventure_Repo.pdb
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceAdventure_Repo\obj\Debug\OuterSpaceAdventure_Repo.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceAdventure_Repo\obj\Debug\OuterSpaceAdventure_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceAdventure_Repo\obj\Debug\OuterSpaceAdventure_Repo.dll
+C:\ElevenFiftyProjects\DotNetProjects\AdventureGame\OuterSpaceAdventure_Repo\obj\Debug\OuterSpaceAdventure_Repo.pdb
